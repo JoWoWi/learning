@@ -1,2 +1,2 @@
-# leraning
+# learning
 lernen und probieren
